@@ -16,7 +16,7 @@ In addition to my software development skills, I bring **12 years of experience 
   - Additional skills: **Motion & Graphic Design, 2D Animation, Basic 3D Animation**
 
 ## GitHub Stats
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesesine&show_icons=true&theme=radical)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enes_Hadzic-blue)](https://www.linkedin.com/in/enes-hadzic-546658307/)
