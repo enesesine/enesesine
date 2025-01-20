@@ -6,7 +6,7 @@ In addition to my software development skills, I bring **12 years of experience 
 
 ## About Me
 - 🧑‍💻 **Name**: Enes Hadzic
-- 🎂 **Age**: 23 years old
+- 🎂 **Age**: 24 years old
 - 🌱 **Currently Learning**: Fullstack Development
 - 🛠️ **Technologies I'm working with**:
   - Frontend: **HTML, CSS, JavaScript, TypeScript, Angular**
